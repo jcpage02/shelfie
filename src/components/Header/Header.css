@@ -1,0 +1,26 @@
+.Header {
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+    background-color: #ab2a19;
+    height: 75px;
+    width: 100%;
+    position: fixed;
+  }
+  
+  .Logo {
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    height: 35px;
+    width: 35px;
+  }
+  
+  .Brand {
+    position: absolute;
+    top: 15px;
+    left: 100px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+  }
